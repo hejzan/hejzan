@@ -1,6 +1,6 @@
 # Hey, I'm Rasmus 👋
 
-I'm a Computer Science MSc student at Aalborg University, Denmark, finishing in 2027.
+I'm a Computer Science MSc student at Aalborg University, Denmark, finishing in June 2027.
 
 Before diving into computer science, I spent quite a few years working with logistics, IT systems, projects, and process improvements. Turns out I really enjoy figuring out how things work, why they don't, and how to make them work a little better.
 
@@ -24,4 +24,3 @@ Most things, though.
 
 ---
 
-*Currently building things, breaking things, and learning how to fix them.*
